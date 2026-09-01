@@ -36,6 +36,8 @@ describe("Spotify sidebar player", () => {
       'allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"'
     );
     expect(component).not.toContain("@url:");
+    expect(component).not.toContain("Listen while you wander");
+    expect(component).not.toContain("spotify-sidebar-player__title");
   });
 
   it("ships responsive component styling", () => {
