@@ -4,7 +4,7 @@
 
 
 # TLDR
-<center>this is a collection of letters and journal entries following a story that im writing. Thats all you need to understand the pages, but ill give more information on how the game works for the nerds :D</center>
+this is a collection of letters and journal entries following a story that im writing. Thats all you need to understand the pages, but ill give more information on how the game works for the nerds :D
 -
 -
 -
