@@ -2,8 +2,8 @@
 {"dg-publish":true,"permalink":"/fiction/dead-letter-society/sophies-files/sophie-letter-1/","dg-note-properties":{}}
 ---
 
-
-Dear florence, 
+<center>
+Dear florence, </center>
 
 Welcome to the soceity my dear. 
 
@@ -16,6 +16,6 @@ As it is only fair, ill share about my day to day. I work under the society as w
 The most intresting part of my day was when i picked up a pair of lovely handmade stone dice. I know, that being the most intresting part of my day? Must have been a boring day, and to be honest it wasPerhaps when we eventually see each other in person, we can play a game with them. I know quite a few story building games and since we are both fans of the literary arts, i figured it would be fun. 
 
 Get back to me on the book, as that intrests me, and let me know when we can plan our first outing. 
-
+<center>
 From,
-Sophie
+Sophie</center>
