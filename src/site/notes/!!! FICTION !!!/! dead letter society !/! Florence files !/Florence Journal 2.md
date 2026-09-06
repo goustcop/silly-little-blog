@@ -4,9 +4,9 @@
 
 
 
-I had a dreadful nighmare today. It was about George again, the exact same dream. The most terrifying part was alwas seeing him on the stake, but this time i could feel the flames from across the crowd. They gathered to kill him that day, i will never know why. 
+I had a dreadful nightmare today. It was about George again, the exact same dream. The most terrifying part was alwas seeing him on the stake, but this time i could feel the flames from across the crowd. They gathered to kill him that day, i will never know why. 
 
-I miss george, an aweful lot. He was the only other person i could trust. No human nor vampire will ever replace him. And now i go back to the society, begging for friendship. I feel pathetic. 
+I miss george, an awful lot. He was the only other person i could trust. No human nor vampire will ever replace him. And now i go back to the society, begging for friendship. I feel pathetic. 
 
 Ive just felt lost, ive felt lost for a while. No amount of storys and literature i read will ever hold a match to that of my loves writing. George always knew what he was doing and where he was going. I envyed that, and now that hes gone...
 
