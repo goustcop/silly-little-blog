@@ -8,4 +8,3 @@
 - [[!!! FICTION !!!/! dead letter society !/! Sophies files !/Sophie Journal 1\|Sophie Journal 1]]
 - [[!!! FICTION !!!/! dead letter society !/! Sophies files !/Sophie Letter 1\|Sophie Letter 1]]
 - [[!!! FICTION !!!/! dead letter society !/! Florence files !/Florence Journal 2\|Florence Journal 2]]
-- 
