@@ -10,3 +10,5 @@ Genuinely tho, happy your here. What you'll find is a mix of things such as fand
 <center>So yea, look around, enjoy, and dont be a stranger!</center>
 
 # !!! RECENT PROJECTS / UPLOADS !!!
+
+- [[!!! NON FICTION !!!/I announced Kewl clothes was over, and an hour later i took it back\|I announced Kewl clothes was over, and an hour later i took it back]]
